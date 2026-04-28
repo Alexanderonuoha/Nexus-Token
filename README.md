@@ -1,5 +1,5 @@
 # Nexus-Token
-# [Nexus-Token] Landing Page
+# Nexus-Token Landing Page
 
 A modern Web3 landing page for Memecoin Launch.
 
